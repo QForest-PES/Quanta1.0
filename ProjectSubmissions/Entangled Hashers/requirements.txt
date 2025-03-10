@@ -1,0 +1,7 @@
+numpy
+matplotlib
+jupyter
+pennylane
+
+
+pip install -r requirements.txt

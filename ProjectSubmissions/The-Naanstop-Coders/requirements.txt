@@ -1,0 +1,8 @@
+Requirements (Python Packages needed):
+1. qiskit 
+    - can be installed with: pip install qiskit
+    - if on google colab, use: !pip install qiskit
+
+2. qiskit_aer
+    - can be installed with: pip install qiskit_aer
+    - if on google colab, use: !pip install qiskit_aer 
