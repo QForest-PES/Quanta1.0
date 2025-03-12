@@ -1,7 +1,0 @@
-1. Python Version 3.7 or later to ensure compatibility with the required libraries.
-
-2. Required Python Libraries: 
-
-	i)  Qiskit
-	ii) Qiskit-aer
-	iii) NumPy
