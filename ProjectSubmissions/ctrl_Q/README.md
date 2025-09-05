@@ -72,4 +72,6 @@ print("Quantum-Generated Password:", password)
 
 ## Contact
 
-For any questions or suggestions, please contact us at reachkrishmathur@gmail.com.
+For any questions or suggestions, please contact us 
+Krish: reachkrishmathur@gmail.com
+Sonia: xsoniaaaxx@gmail.com
